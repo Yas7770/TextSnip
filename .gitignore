@@ -1,0 +1,13 @@
+# Generated builds
+dist/
+bin/
+obj/
+
+# Editor and local files
+.vs/
+.vscode/
+*.user
+*.suo
+*.log
+Thumbs.db
+Desktop.ini
